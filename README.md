@@ -5,9 +5,9 @@ This repository stores a model for forecasting multiparty elections.
 # Project tree
 
  * [election_forecaster](./election_forecaster/) 
-   * [model_outputs](./election_forecaster/model_outputs/)                                             
    * [results](./election_forecaster/results/)
    * [notebooks](./election_forecaster/notebooks/)
+      * [model_outputs](./election_forecaster/notebooks/model_outputs/)  
       * [00_model.ipynb](./election_forecaster/notebooks/00_model.ipynb)
       * [01_simulations_provincial.ipynb](./election_forecaster/notebooks/01_simulations_provincial.ipynb)
       * [02_simulations_national.ipynb](./election_forecaster/notebooks/02_simulations_national.ipynb)
