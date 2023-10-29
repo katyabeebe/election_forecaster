@@ -10,7 +10,7 @@ This repository stores a model for forecasting multiparty elections.
    * [notebooks](./election_forecaster/notebooks/)
       * [00_model.ipynb](./election_forecaster/notebooks/00_model.ipynb)
       * [01_simulations_provincial.ipynb](./election_forecaster/notebooks/01_simulations_provincial.ipynb)
-      * [02_simulations_national.ipynb](./election_forecaster/notebooks/01_simulations_national.ipynb)
+      * [02_simulations_national.ipynb](./election_forecaster/notebooks/02_simulations_national.ipynb)
       * [03_final_cleaning.ipynb](./election_forecaster/notebooks/03_final_cleaning.ipynb)
  * [dev](./dev/)
  * [LICENSE](./LICENSE)
