@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# DS_Store
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# raw data files
+**/raw_data
